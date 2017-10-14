@@ -1,0 +1,74 @@
+{
+  "_from": "ngx-phone-select@^1.0.4",
+  "_id": "ngx-phone-select@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-iWjhj7+cD6CJgjMJsaWzV+dOwvgSbWqexuOSkfJYehxQKkVYfeyMyeanI52SL7sowf35RTP26jtzSHZ+DKk5Mw==",
+  "_location": "/ngx-phone-select",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ngx-phone-select@^1.0.4",
+    "name": "ngx-phone-select",
+    "escapedName": "ngx-phone-select",
+    "rawSpec": "^1.0.4",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.4"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ngx-phone-select/-/ngx-phone-select-1.0.4.tgz",
+  "_shasum": "7bbeab7f73f48dca4269378cc23484967b6025f1",
+  "_spec": "ngx-phone-select@^1.0.4",
+  "_where": "C:\\projects\\Tickercom\\register.fantasysportsticker",
+  "author": {
+    "name": "Nikolas Pafitis",
+    "email": "n.pafitis@impactechs.com"
+  },
+  "bugs": {
+    "url": "https://github.com/username/repo/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "intl-tel-input": "^12.0.0",
+    "jquery": "^3.2.1"
+  },
+  "deprecated": false,
+  "description": "Based on the awesome intl-tel-input by jackocnr(https://github.com/jackocnr/intl-tel-input) ## Installation First you need to install intl-tel-input and jquery. Import that to your angular-cli file like this: ```json       \"styles\": [         \"../node_modules/intl-tel-input/build/css/intlTelInput.css\"       ],       \"scripts\": [         \"../node_modules/jquery/dist/jquery.js\",         \"../node_modules/intl-tel-input/build/js/intlTelInput.js\",         \"../node_modules/intl-tel-input/build/js/utils.js\"       ], ``` To install this library, run:",
+  "homepage": "https://github.com/username/repo#readme",
+  "jsnext:main": "ngx-phone-select.js",
+  "keywords": [
+    "angular",
+    "phone",
+    "select",
+    "phone-select",
+    "intl-tel-input",
+    "responsive",
+    "validation",
+    "angular2",
+    "angular 2",
+    "angular4",
+    "angular 4",
+    "ng",
+    "ngx",
+    "ng2",
+    "jquery"
+  ],
+  "license": "MIT",
+  "main": "ngx-phone-select.umd.js",
+  "module": "ngx-phone-select.js",
+  "name": "ngx-phone-select",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/repo.git"
+  },
+  "typings": "ngx-phone-select.d.ts",
+  "version": "1.0.4"
+}
