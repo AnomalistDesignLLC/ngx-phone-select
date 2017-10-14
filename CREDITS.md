@@ -1,4 +1,3 @@
 Credits
 =======
-  - Showdown v1
-    * [npafitis](https://www.npmjs.com/~npafitis)
+  - [npafitis](https://www.npmjs.com/~npafitis)
