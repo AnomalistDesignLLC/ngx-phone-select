@@ -1,3 +1,4 @@
 Credits
-=======
-    * [npafitis](https://www.npmjs.com/~npafitis)
+    Showdown v1
+        Estevão Santos
+        Pascal Deschênes
