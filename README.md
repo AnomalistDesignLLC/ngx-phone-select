@@ -3,6 +3,8 @@ Based on the awesome intl-tel-input by jackocnr(https://github.com/jackocnr/intl
 
 ## Installation
 
+npm install https://github.com/AnomalistDesignLLC/ngx-phone-select --save
+
 See https://www.npmjs.com/package/ngx-phone-select
 
 ## Changes

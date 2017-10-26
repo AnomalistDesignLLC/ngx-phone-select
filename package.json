@@ -1,27 +1,25 @@
 {
-  "_from": "ngx-phone-select@^1.0.4",
+  "_from": "git+https://github.com/AnomalistDesignLLC/ngx-phone-select.git",
   "_id": "ngx-phone-select@1.0.4",
   "_inBundle": false,
-  "_integrity": "sha512-iWjhj7+cD6CJgjMJsaWzV+dOwvgSbWqexuOSkfJYehxQKkVYfeyMyeanI52SL7sowf35RTP26jtzSHZ+DKk5Mw==",
+  "_integrity": "sha1-hgmWyBfPBZDtDJkjVKnVL55zKR0=",
   "_location": "/ngx-phone-select",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
-    "registry": true,
-    "raw": "ngx-phone-select@^1.0.4",
-    "name": "ngx-phone-select",
-    "escapedName": "ngx-phone-select",
-    "rawSpec": "^1.0.4",
-    "saveSpec": null,
-    "fetchSpec": "^1.0.4"
+    "type": "git",
+    "raw": "https://github.com/AnomalistDesignLLC/ngx-phone-select",
+    "rawSpec": "https://github.com/AnomalistDesignLLC/ngx-phone-select",
+    "saveSpec": "git+https://github.com/AnomalistDesignLLC/ngx-phone-select.git",
+    "fetchSpec": "https://github.com/AnomalistDesignLLC/ngx-phone-select.git",
+    "gitCommittish": "master"
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/ngx-phone-select/-/ngx-phone-select-1.0.4.tgz",
+  "_resolved": "git+https://github.com/AnomalistDesignLLC/ngx-phone-select.git#43f003369210f148b152ea51d5f87b8e4466080d",
   "_shasum": "7bbeab7f73f48dca4269378cc23484967b6025f1",
-  "_spec": "ngx-phone-select@^1.0.4",
+  "_spec": "https://github.com/AnomalistDesignLLC/ngx-phone-select",
   "_where": "C:\\projects\\Tickercom\\register.fantasysportsticker",
   "author": {
     "name": "Nikolas Pafitis",
